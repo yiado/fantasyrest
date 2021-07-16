@@ -1,0 +1,5 @@
+package com.yiado.configuration;
+
+public class JwtUtil {
+
+}
