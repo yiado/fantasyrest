@@ -1,0 +1,29 @@
+package com.yiado.model;
+
+import com.yiado.entity.Jugador;
+
+public class JugadorModel {
+	
+public JugadorModel() {
+		
+	}
+	
+	public JugadorModel(Jugador jugador) {
+		this.id = jugador.getId();
+		this.nombre = jugador.getNombre();
+		this.status = jugador.getStatus();
+		
+	}
+	 
+	public JugadorModel(long id, String nombre, boolean status) {
+		this.id = id;
+		this.nombre = nombre;
+		this.status = status;
+	}
+	
+	private long id;
+	private String nombre;
+	private boolean status;
+
+
+}
