@@ -1,0 +1,10 @@
+package com.yiado.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Table(name="INSCRIPCION")
+@Entity
+public class Inscripcion {
+
+}
