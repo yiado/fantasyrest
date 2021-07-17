@@ -1,8 +1,5 @@
 package com.yiado.model;
 
-import java.util.Date;
-
-import com.yiado.entity.Jugador;
 import com.yiado.entity.Torneo;
 
 public class TorneoModel {

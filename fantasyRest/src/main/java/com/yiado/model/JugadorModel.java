@@ -4,9 +4,9 @@ import com.yiado.entity.Jugador;
 
 public class JugadorModel {
 	
-public JugadorModel() {
-		
-	}
+	public JugadorModel() {
+			
+		}
 	
 	public JugadorModel(Jugador jugador) {
 		this.id = jugador.getId();

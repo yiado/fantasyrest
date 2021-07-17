@@ -1,0 +1,39 @@
+package com.yiado.model;
+
+import com.yiado.entity.Inscripcion;
+
+public class InscripcionModel {
+	
+	
+	public InscripcionModel() {
+		
+	}
+
+	public InscripcionModel(Inscripcion inscripcion) {
+		
+		this.id = inscripcion.getId();
+		this.jugador_id = inscripcion.getJugador_id();
+		this.torneo_id = inscripcion.getTorneo_id();
+		this.posicion = inscripcion.getPosicion();
+		this.puntos = inscripcion.getPuntos();
+		this.status = inscripcion.getStatus();
+		
+	}
+	 
+	public InscripcionModel(long id, long jugador_id, long torneo_id, long posicion, long puntos, boolean status) {
+		this.id = id;
+		this.jugador_id = jugador_id;
+		this.torneo_id = torneo_id;
+		this.posicion = posicion;
+		this.puntos = puntos;
+		this.status = status;
+	}
+
+	private long id;
+	private long jugador_id;
+	private long torneo_id;
+	private long posicion;
+	private long puntos;
+	private boolean status;
+
+}

@@ -17,11 +17,11 @@ public class Inscripcion implements Serializable{
 			
 		}
 	
-	public Inscripcion(long id, long jugador_id, long torneo_id, long posicion, long puntos,  boolean status) {
+	public Inscripcion(long id, long jugadorId, long torneoId, long posicion, long puntos,  boolean status) {
 
 		this.id = id;
-		this.jugador_id = jugador_id;
-		this.torneo_id = torneo_id;
+		this.jugadorId = jugadorId;
+		this.torneoId = torneoId;
 		this.posicion = posicion;
 		this.puntos = puntos;
 		this.status = status;
@@ -32,9 +32,9 @@ public class Inscripcion implements Serializable{
 	@Column(name="inscripcion_id")
 	private long id;
 	@Column(name="jugador_id")
-	private long jugador_id;
+	private long jugadorId;
 	@Column(name="torneo_id")
-	private long torneo_id;
+	private long torneoId;
 	@Column(name="puntos")
 	private long puntos;
 	@Column(name="posicion")
@@ -49,20 +49,20 @@ public class Inscripcion implements Serializable{
 		this.id = id;
 	}
 
-	public long getJugador_id() {
-		return jugador_id;
+	public long getJugadorId() {
+		return jugadorId;
 	}
 
-	public void setJugador_id(long jugador_id) {
-		this.jugador_id = jugador_id;
+	public void setJugadorId(long jugadorId) {
+		this.jugadorId = jugadorId;
 	}
 
-	public long getTorneo_id() {
-		return torneo_id;
+	public long getTorneoId() {
+		return torneoId;
 	}
 
-	public void setTorneo_id(long torneo_id) {
-		this.torneo_id = torneo_id;
+	public void setTorneoId(long torneoId) {
+		this.torneoId = torneoId;
 	}
 
 	public long getPuntos() {

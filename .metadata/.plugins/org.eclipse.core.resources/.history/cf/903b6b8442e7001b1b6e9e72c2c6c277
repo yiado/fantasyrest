@@ -1,0 +1,50 @@
+package com.yiado.entity;
+
+import java.io.Serializable;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Table(name="INSCRIPCION")
+@Entity
+public class Inscripcion implements Serializable{
+	
+	public Inscripcion()  {
+			
+			
+		}
+	
+	public Inscripcion(long id, long jugadorId, long torneoId, long posicion, long puntos,  boolean status) {
+
+		this.id = id;
+		this.jugadorId = jugador_id;
+		this.torneoId = torneo_id;
+		this.posicion = posicion;
+		this.puntos = puntos;
+		this.status = status;
+	}
+	
+	@GeneratedValue
+	@Id 
+	@Column(name="inscripcion_id")
+	private long id;
+	@Column(name="jugador_id")
+	private long jugadorId;
+	@Column(name="torneo_id")
+	private long torneoId;
+	@Column(name="puntos")
+	private long puntos;
+	@Column(name="posicion")
+	private long posicion;
+	@Column(name="inscripcion_status")
+	private boolean status;
+	public long getId() {
+		return id;
+	}
+
+	
+	
+}

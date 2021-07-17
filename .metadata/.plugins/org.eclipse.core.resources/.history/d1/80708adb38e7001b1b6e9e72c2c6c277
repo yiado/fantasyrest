@@ -1,0 +1,116 @@
+package com.yiado.service;
+
+import java.util.List;
+
+import org.apache.juli.logging.Log;
+import org.apache.juli.logging.LogFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.data.domain.Pageable;
+import org.springframework.stereotype.Service;
+
+import com.yiado.converter.InscripcionConverter;
+import com.yiado.entity.Inscripcion;
+import com.yiado.model.InscripcionModel;
+import com.yiado.repository.InscripcionRepository;
+
+
+
+@Service("InscripcionService")
+public class InscripcionService {
+
+	@Autowired
+	@Qualifier("InscripcionRepository")
+	private InscripcionRepository repo;
+	
+	
+	@Autowired
+	@Qualifier("InscripcionConverter")
+	private InscripcionConverter converter;
+	
+	private static final Log logger = LogFactory.getLog(JugadorService.class);
+	
+	public boolean AddJugador(Inscripcion inscripcion) {
+		logger.info("CREANDO JUGADOR");
+		try {
+			repo.save(inscripcion);
+			return true;
+					
+			
+		}catch(Exception e){
+			logger.error("ERROR CREANDO JUGADOR: " + e);
+			return false;
+		}
+		
+	}
+	
+	public boolean AddJugadores(List<Inscripcion> inscripciones) {
+		logger.info("CREANDO JUGADORES");
+		try {
+			for(Inscripcion inscripcion : inscripciones ) {
+				repo.save(inscripcion);
+			}
+			
+			return true;
+			
+		}catch(Exception e){
+			logger.error("ERROR CREANDO JUGADOR: " + e);
+			return false;
+		}
+		
+	}
+	
+	public boolean UpdateJugador(Inscripcion inscripcion) {
+		logger.info("ACTUALIZANDO JUGADOR");
+			try {
+				repo.save(inscripcion);
+				return true;
+						
+				
+			}catch(Exception e){
+				
+				return false;
+			}
+			
+		}
+	
+	public boolean DeleteJugador(long id, long torneo_id) {
+			logger.info("ELIMINANDO JUGADOR");
+				try {
+					Inscripcion inscripcion = repo.findByIdAndTorneo_id(id, torneo_id);
+					repo.delete(inscripcion);
+					return true;
+							
+					
+				}catch(Exception e){
+					
+					return false;
+				}
+				
+			}
+		
+	public List<InscripcionModel> getAllJugador() {
+			logger.info("LISTANDO NOTA");
+				return converter.convertirLista(repo.findAll());
+			
+		}
+	
+	public InscripcionModel getNombreStatus(String nombre, Boolean status) {
+		
+			return new InscripcionModel(repo.findByNombreAndStatus(nombre, status));
+		
+	}
+	
+	public List<InscripcionModel> getStatus(boolean status) {
+		
+				return converter.convertirLista(repo.findByStatus(status));
+			
+		}
+	
+	public List<InscripcionModel> getAllJugadorPage(Pageable pageable){
+		
+		return converter.convertirLista(repo.findAll(pageable).getContent());
+		
+	}
+	
+}

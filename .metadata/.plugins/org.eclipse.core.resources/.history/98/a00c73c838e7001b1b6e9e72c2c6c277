@@ -1,0 +1,8 @@
+package com.yiado.service;
+
+import org.springframework.stereotype.Service;
+
+@Service("InscripcionService")
+public class InscripcionService {
+
+}
