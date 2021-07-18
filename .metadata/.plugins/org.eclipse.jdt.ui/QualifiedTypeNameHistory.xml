@@ -1,2 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.yiado.repository.JugadorRepository"/>
+    <fullyQualifiedTypeName name="com.yiado.converter.JugadorConverter"/>
+    <fullyQualifiedTypeName name="antlr.collections.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.yiado.service.JugadorService"/>
+    <fullyQualifiedTypeName name="com.yiado.entity.Jugador"/>
+    <fullyQualifiedTypeName name="com.yiado.model.JugadorModel"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="com.yiado.repository.TorneoRepository"/>
+    <fullyQualifiedTypeName name="com.yiado.converter.TorneoConverter"/>
+    <fullyQualifiedTypeName name="com.yiado.service.TorneoService"/>
+    <fullyQualifiedTypeName name="com.yiado.model.TorneoModel"/>
+    <fullyQualifiedTypeName name="com.yiado.entity.Torneo"/>
+    <fullyQualifiedTypeName name="com.yiado.converter.InscripcionConverter"/>
+    <fullyQualifiedTypeName name="com.yiado.entity.Inscripcion"/>
+    <fullyQualifiedTypeName name="com.yiado.model.InscripcionModel"/>
+    <fullyQualifiedTypeName name="com.yiado.repository.InscripcionRepository"/>
+    <fullyQualifiedTypeName name="com.yiado.service.InscripcionService"/>
+</qualifiedTypeNameHistroy>
