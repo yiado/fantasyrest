@@ -1,5 +1,0 @@
-package com.yiado.configuration;
-
-public class JwtFilter {
-
-}

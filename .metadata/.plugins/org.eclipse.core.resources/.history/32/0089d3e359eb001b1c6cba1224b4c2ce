@@ -1,0 +1,63 @@
+package com.yiado.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.data.domain.Pageable;
+import org.springframework.validation.annotation.Validated;
+import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.yiado.entity.Nota;
+import com.yiado.model.NotaModel;
+import com.yiado.service.NotaService;
+
+@RestController
+@RequestMapping("/v1")
+@CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.POST})
+public class NotaController {
+	
+	 @Autowired
+	 @Qualifier("NotaService")
+	 NotaService servi;
+	 
+	 
+	 @PostMapping("/nota")
+	 public boolean addNota(@RequestBody @Validated Nota nota){
+		return servi.AddNota(nota);
+		
+	}
+	
+	 @PutMapping("/nota")
+	 public boolean UpdateNota(@RequestBody @Validated Nota nota){
+		return servi.UpdateNota(nota);
+		
+	}
+	 
+	 
+	 @DeleteMapping("/nota/{id}/{nombre}")
+	 public boolean deleteNota(@PathVariable("id") long id, @PathVariable("nombre") String nombre){
+		
+		//Debe retornar acorde a como fue definido en el servicio
+		return servi.DeleteNota(nombre, id);
+		
+	}
+	 
+	@GetMapping("/notas")
+	public List<NotaModel> getAllNota(Pageable pageable){
+		
+		return servi.getAllNotaPage(pageable);
+	}
+	 
+	 
+
+}

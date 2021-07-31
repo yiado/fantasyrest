@@ -1,5 +1,0 @@
-package com.yiado.repository;
-
-public interface Inscripcion {
-
-}

@@ -19,4 +19,6 @@
     <fullyQualifiedTypeName name="com.yiado.model.InscripcionModel"/>
     <fullyQualifiedTypeName name="com.yiado.repository.InscripcionRepository"/>
     <fullyQualifiedTypeName name="com.yiado.service.InscripcionService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
+    <fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.CorsRegistry"/>
 </qualifiedTypeNameHistroy>
