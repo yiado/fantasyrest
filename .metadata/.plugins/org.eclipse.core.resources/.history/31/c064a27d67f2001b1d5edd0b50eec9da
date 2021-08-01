@@ -68,10 +68,10 @@ public class Inscripcion implements Serializable{
 	}
 
 
-	public Torneo getTorneoId() {
-		return torneoId;
+	public void setStatus(boolean status) {
+		this.status = status;
 	}
-	
+
 	public void setTorneoId(Torneo torneoId) {
 		this.torneoId = torneoId;
 	}
@@ -96,9 +96,4 @@ public class Inscripcion implements Serializable{
 		return status;
 	}
 
-	public void setStatus(boolean status) {
-		this.status = status;
-	}
-
-	
 }

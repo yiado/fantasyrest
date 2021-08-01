@@ -11,8 +11,6 @@ public class JugadorModel {
 	public JugadorModel(Jugador jugador) {
 		this.id = jugador.getId();
 		this.nombre = jugador.getNombre();
-		this.pais = jugador.getPais();
-		this.residencia = jugador.getResidencia();
 		this.status = jugador.getStatus();
 		
 	}
@@ -25,8 +23,6 @@ public class JugadorModel {
 	
 	private long id;
 	private String nombre;
-	private String pais;
-	private String residencia;
 	private boolean status;
 	
 	
@@ -52,22 +48,6 @@ public class JugadorModel {
 
 	public void setStatus(boolean status) {
 		this.status = status;
-	}
-
-	public String getPais() {
-		return pais;
-	}
-
-	public void setPais(String pais) {
-		this.pais = pais;
-	}
-
-	public String getResidencia() {
-		return residencia;
-	}
-
-	public void setResidencia(String residencia) {
-		this.residencia = residencia;
 	}
 
 

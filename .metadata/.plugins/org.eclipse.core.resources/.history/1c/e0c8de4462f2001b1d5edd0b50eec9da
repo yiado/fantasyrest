@@ -6,8 +6,6 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
 @Table(name="INSCRIPCION")
@@ -19,7 +17,7 @@ public class Inscripcion implements Serializable{
 			
 		}
 	
-	public Inscripcion(long id, Jugador jugadorId, Torneo torneoId, long posicion, long puntos,  boolean status) {
+	public Inscripcion(long id, long jugadorId, long torneoId, long posicion, long puntos,  boolean status) {
 
 		this.id = id;
 		this.jugadorId = jugadorId;
@@ -33,24 +31,16 @@ public class Inscripcion implements Serializable{
 	@Id 
 	@Column(name="inscripcion_id")
 	private long id;
-	
-	@ManyToOne
-	@JoinColumn(name="jugador_id")
-	Jugador jugadorId;
-	
-	@ManyToOne
-	@JoinColumn(name="torneo_id")
-	Torneo torneoId;
-	
+	@Column(name="jugador_id")
+	private long jugadorId;
+	@Column(name="torneo_id")
+	private long torneoId;
 	@Column(name="puntos")
 	private long puntos;
-	
 	@Column(name="posicion")
 	private long posicion;
-	
 	@Column(name="inscripcion_status")
 	private boolean status;
-	
 	public long getId() {
 		return id;
 	}
@@ -58,21 +48,20 @@ public class Inscripcion implements Serializable{
 	public void setId(long id) {
 		this.id = id;
 	}
-	
-	public Jugador getJugadorId() {
+
+	public long getJugadorId() {
 		return jugadorId;
 	}
 
-	public void setJugadorId(Jugador jugadorId) {
+	public void setJugadorId(long jugadorId) {
 		this.jugadorId = jugadorId;
 	}
 
-
-	public Torneo getTorneoId() {
+	public long getTorneoId() {
 		return torneoId;
 	}
-	
-	public void setTorneoId(Torneo torneoId) {
+
+	public void setTorneoId(long torneoId) {
 		this.torneoId = torneoId;
 	}
 
@@ -99,6 +88,5 @@ public class Inscripcion implements Serializable{
 	public void setStatus(boolean status) {
 		this.status = status;
 	}
-
 	
 }

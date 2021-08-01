@@ -2,7 +2,6 @@ package com.yiado.model;
 
 import com.yiado.entity.Inscripcion;
 import com.yiado.entity.Jugador;
-import com.yiado.entity.Torneo;
 
 public class InscripcionModel {
 	
@@ -22,7 +21,7 @@ public class InscripcionModel {
 		
 	}
 	 
-	public InscripcionModel(long id, Jugador jugadorId, Torneo torneoId, long posicion, long puntos, boolean status) {
+	public InscripcionModel(long id, Jugador jugadorId, long torneoId, long posicion, long puntos, boolean status) {
 		this.id = id;
 		this.jugadorId = jugadorId;
 		this.torneoId = torneoId;
@@ -33,7 +32,7 @@ public class InscripcionModel {
 
 	private long id;
 	private Jugador jugadorId;
-	private Torneo torneoId;
+	private long torneoId;
 	private long posicion;
 	private long puntos;
 	private boolean status;
@@ -55,11 +54,11 @@ public class InscripcionModel {
 	}
 
 
-	public Torneo getTorneoId() {
+	public long getTorneoId() {
 		return torneoId;
 	}
 
-	public void setTorneoId(Torneo torneoId) {
+	public void setTorneoId(long torneoId) {
 		this.torneoId = torneoId;
 	}
 

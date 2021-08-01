@@ -60,20 +60,4 @@ public Jugador()  {
 	public void setStatus(boolean status) {
 		this.status = status;
 	}
-
-	public String getPais() {
-		return pais;
-	}
-
-	public void setPais(String pais) {
-		this.pais = pais;
-	}
-
-	public String getResidencia() {
-		return residencia;
-	}
-
-	public void setResidencia(String residencia) {
-		this.residencia = residencia;
-	}
 }

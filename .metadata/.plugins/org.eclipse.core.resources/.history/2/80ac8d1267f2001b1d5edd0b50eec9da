@@ -19,7 +19,7 @@ public class Inscripcion implements Serializable{
 			
 		}
 	
-	public Inscripcion(long id, Jugador jugadorId, Torneo torneoId, long posicion, long puntos,  boolean status) {
+	public Inscripcion(long id, Jugador jugadorId, long torneoId, long posicion, long puntos,  boolean status) {
 
 		this.id = id;
 		this.jugadorId = jugadorId;
@@ -40,7 +40,7 @@ public class Inscripcion implements Serializable{
 	
 	@ManyToOne
 	@JoinColumn(name="torneo_id")
-	Torneo torneoId;
+	private long torneoId;
 	
 	@Column(name="puntos")
 	private long puntos;
@@ -68,11 +68,11 @@ public class Inscripcion implements Serializable{
 	}
 
 
-	public Torneo getTorneoId() {
+	public long getTorneoId() {
 		return torneoId;
 	}
-	
-	public void setTorneoId(Torneo torneoId) {
+
+	public void setTorneoId(long torneoId) {
 		this.torneoId = torneoId;
 	}
 
