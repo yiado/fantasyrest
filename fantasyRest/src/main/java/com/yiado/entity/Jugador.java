@@ -17,11 +17,14 @@ public Jugador()  {
 		
 	}
 	
-	public Jugador(long id, String nombre, boolean status) {
+	public Jugador(long id, String nombre, boolean status, String pais, String residencia, long puntosGlobales) {
 
 		this.id = id;
 		this.nombre = nombre;
+		this.pais = pais;
+		this.residencia = residencia;
 		this.status = status;
+		this.puntosGlobales = puntosGlobales;
 	}
 	
 	@GeneratedValue
@@ -36,6 +39,8 @@ public Jugador()  {
 	private String residencia;
 	@Column(name="jugador_status")
 	private boolean status;
+	@Column(name="puntos_gobales")
+	private long puntosGlobales;
 	
 	public long getId() {
 		return id;
@@ -75,5 +80,13 @@ public Jugador()  {
 
 	public void setResidencia(String residencia) {
 		this.residencia = residencia;
+	}
+
+	public long getPuntosGlobales() {
+		return puntosGlobales;
+	}
+
+	public void setPuntosGlobales(long puntosGlobales) {
+		this.puntosGlobales = puntosGlobales;
 	}
 }

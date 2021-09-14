@@ -14,13 +14,17 @@ public class JugadorModel {
 		this.pais = jugador.getPais();
 		this.residencia = jugador.getResidencia();
 		this.status = jugador.getStatus();
+		this.puntosGlobales = jugador.getPuntosGlobales();
 		
 	}
 	 
-	public JugadorModel(long id, String nombre, boolean status) {
+	public JugadorModel(long id, String nombre, boolean status, String pais, String residencia, long puntosGlobales) {
 		this.id = id;
 		this.nombre = nombre;
+		this.pais = pais;
+		this.residencia = residencia;
 		this.status = status;
+		this.puntosGlobales = puntosGlobales;
 	}
 	
 	private long id;
@@ -28,6 +32,7 @@ public class JugadorModel {
 	private String pais;
 	private String residencia;
 	private boolean status;
+	private long puntosGlobales;
 	
 	
 	public long getId() {
@@ -68,6 +73,14 @@ public class JugadorModel {
 
 	public void setResidencia(String residencia) {
 		this.residencia = residencia;
+	}
+
+	public long getPuntosGlobales() {
+		return puntosGlobales;
+	}
+
+	public void setPuntosGlobales(long puntosGlobales) {
+		this.puntosGlobales = puntosGlobales;
 	}
 
 

@@ -101,7 +101,7 @@ public class JugadorService {
 	
 	public List<JugadorModel> getStatus(boolean status) {
 		
-				return converter.convertirLista(repo.findByStatus(status));
+				return converter.convertirLista(repo.findByStatusOrderByPuntosGlobalesDesc(status));
 			
 		}
 	

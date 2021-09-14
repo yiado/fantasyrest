@@ -18,6 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import com.yiado.entity.Jugador;
+import com.yiado.model.InscripcionModel;
 import com.yiado.model.JugadorModel;
 import com.yiado.service.JugadorService;
 
@@ -57,6 +58,12 @@ public class JugadorController {
 		return servi.DeleteJugador(nombre, id);
 		
 	}
+	 
+	@GetMapping("/jugadores/{status}")
+		public List<JugadorModel> getAllJugador(@PathVariable("status") boolean status){
+			
+			return servi.getStatus(status);
+	} 
 	 
 	@GetMapping("/jugadores")
 	public List<JugadorModel> getAllJugador(Pageable pageable){

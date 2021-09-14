@@ -18,6 +18,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.yiado.entity.Inscripcion;
+import com.yiado.entity.Torneo;
 import com.yiado.model.InscripcionModel;
 import com.yiado.service.InscripcionService;
 
@@ -58,10 +59,25 @@ public class InscripcionController {
 		
 	}
 	 
-	@GetMapping("/inscripciones")
+	/*@GetMapping("/inscripciones")
 	public List<InscripcionModel> getAllJugador(Pageable pageable){
 		
 		return servi.getAllInscripcionPage(pageable);
+	}*/
+	 
+	 @GetMapping("/inscripciones/{status}")
+		public List<InscripcionModel> getAllJugador(@PathVariable("status") boolean status){
+			
+			return servi.getStatus(status);
+	}
+	 
+	 @GetMapping("/inscripciones/{status}/{torneoId}")
+		public List<InscripcionModel> getAllInscripcion(@PathVariable("status") boolean status, @PathVariable("torneoId") long torneoId){
+		 
+		 	Torneo torneo = new Torneo();
+		 	torneo.setId(torneoId);
+			
+			return servi.getStatusAndTorneo(status, torneo);
 	}
 
 

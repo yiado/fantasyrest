@@ -38,7 +38,7 @@ public class WebSecurity extends WebSecurityConfigurerAdapter {
 	protected void configure(HttpSecurity http) throws Exception {
 		
 		http.csrf().disable().cors().and().authorizeRequests()
-        .antMatchers("/login", "/v1/inscripciones").permitAll() //permitimos el acceso a /login a cualquiera
+        .antMatchers("/login", "/v1/inscripciones", "/v1/inscripciones/{status}", "/v1/inscripciones/{status}/{torneoId}", "/v1/jugadores/{status}").permitAll() //permitimos el acceso a /login a cualquiera
         .anyRequest().authenticated() //cualquier otra peticion requiere autenticacion
         .and()
         // Las peticiones /login pasaran previamente por este filtro

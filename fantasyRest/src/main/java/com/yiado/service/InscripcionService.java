@@ -11,6 +11,7 @@ import org.springframework.stereotype.Service;
 
 import com.yiado.converter.InscripcionConverter;
 import com.yiado.entity.Inscripcion;
+import com.yiado.entity.Torneo;
 import com.yiado.model.InscripcionModel;
 import com.yiado.repository.InscripcionRepository;
 
@@ -107,6 +108,12 @@ public class InscripcionService {
 				return converter.convertirLista(repo.findByStatus(status));
 			
 		}
+	
+	public List<InscripcionModel> getStatusAndTorneo(boolean status, Torneo torneoId) {
+		
+		return converter.convertirLista(repo.findByStatusAndTorneoId(status , torneoId));
+	
+}
 	
 	public List<InscripcionModel> getAllInscripcionPage(Pageable pageable){
 		

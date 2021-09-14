@@ -16,7 +16,7 @@ public interface JugadorRepository extends JpaRepository<Jugador, Serializable>,
 
 	public abstract Jugador findByNombre(String nombre);
 	
-	public abstract List<Jugador> findByStatus(boolean status);
+	public abstract List<Jugador> findByStatusOrderByPuntosGlobalesDesc(boolean status);
 	
 	public abstract Jugador findByNombreAndStatus(String nombre, Boolean Status);
 	
