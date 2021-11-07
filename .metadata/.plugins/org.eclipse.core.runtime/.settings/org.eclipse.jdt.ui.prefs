@@ -84,5 +84,6 @@ semanticHighlighting.typeParameter.color=191,164,164
 semanticHighlighting.typeParameter.enabled=true
 sourceHoverBackgroundColor=68,68,68
 spelling_locale_initialized=true
+typefilter_migrated=true
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true

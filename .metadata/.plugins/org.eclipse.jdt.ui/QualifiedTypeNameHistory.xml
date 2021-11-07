@@ -13,7 +13,6 @@
     <fullyQualifiedTypeName name="com.yiado.converter.TorneoConverter"/>
     <fullyQualifiedTypeName name="com.yiado.service.TorneoService"/>
     <fullyQualifiedTypeName name="com.yiado.model.TorneoModel"/>
-    <fullyQualifiedTypeName name="com.yiado.entity.Torneo"/>
     <fullyQualifiedTypeName name="com.yiado.converter.InscripcionConverter"/>
     <fullyQualifiedTypeName name="com.yiado.entity.Inscripcion"/>
     <fullyQualifiedTypeName name="com.yiado.model.InscripcionModel"/>
@@ -23,4 +22,10 @@
     <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.CrossOrigin"/>
     <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
     <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+    <fullyQualifiedTypeName name="com.yiado.entity.Torneo"/>
+    <fullyQualifiedTypeName name="org.springframework.web.cors.CorsConfigurationSource"/>
+    <fullyQualifiedTypeName name="org.springframework.web.cors.CorsConfiguration"/>
+    <fullyQualifiedTypeName name="org.springframework.web.cors.UrlBasedCorsConfigurationSource"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
 </qualifiedTypeNameHistroy>
