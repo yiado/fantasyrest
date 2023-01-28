@@ -103,7 +103,7 @@ public class JugadorService {
 		
 				return converter.convertirLista(repo.findByStatusOrderByPuntosGlobalesDesc(status));
 			
-		}
+	}
 	
 	public List<JugadorModel> getAllJugadorPage(Pageable pageable){
 		

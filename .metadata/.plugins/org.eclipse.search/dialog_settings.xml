@@ -25,12 +25,12 @@
 		<item key="WHOLE_WORD" value="false"/>
 		<item key="SEARCH_DERIVED" value="false"/>
 		<item key="SEARCH_IN_BINARIES" value="false"/>
-		<item key="HISTORY_SIZE" value="4"/>
+		<item key="HISTORY_SIZE" value="5"/>
 		<section name="HISTORY0">
 			<item key="ignoreCase" value="true"/>
 			<item key="isRegExSearch" value="false"/>
 			<item key="isWholeWord" value="false"/>
-			<item key="textPattern" value="&lt;Http10Connector"/>
+			<item key="textPattern" value="BCryptPasswordEncoder"/>
 			<item key="scope" value="0"/>
 			<list key="fileNamePatterns">
 				<item value="*.properties"/>
@@ -45,7 +45,7 @@
 			<item key="ignoreCase" value="true"/>
 			<item key="isRegExSearch" value="false"/>
 			<item key="isWholeWord" value="false"/>
-			<item key="textPattern" value="&lt;Parameter name=&quot;port&quot; "/>
+			<item key="textPattern" value="&lt;Http10Connector"/>
 			<item key="scope" value="0"/>
 			<list key="fileNamePatterns">
 				<item value="*.properties"/>
@@ -57,7 +57,7 @@
 			<item key="ignoreCase" value="true"/>
 			<item key="isRegExSearch" value="false"/>
 			<item key="isWholeWord" value="false"/>
-			<item key="textPattern" value="setDefaultPageSize"/>
+			<item key="textPattern" value="&lt;Parameter name=&quot;port&quot; "/>
 			<item key="scope" value="0"/>
 			<list key="fileNamePatterns">
 				<item value="*.properties"/>
@@ -66,6 +66,18 @@
 			</list>
 		</section>
 		<section name="HISTORY3">
+			<item key="ignoreCase" value="true"/>
+			<item key="isRegExSearch" value="false"/>
+			<item key="isWholeWord" value="false"/>
+			<item key="textPattern" value="setDefaultPageSize"/>
+			<item key="scope" value="0"/>
+			<list key="fileNamePatterns">
+				<item value="*.properties"/>
+			</list>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY4">
 			<item key="ignoreCase" value="true"/>
 			<item key="isRegExSearch" value="false"/>
 			<item key="isWholeWord" value="false"/>

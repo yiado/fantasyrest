@@ -3557,3 +3557,311 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2021-11-06 22:26:31,636 [Worker-16: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-11-06 22:26:31,637 [Worker-16: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-11-06 22:26:31,637 [Worker-16: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2021-11-19 17:02:56,152 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-07 15:35:00,061 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-01-07 15:55:52,842 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 15:55:52,849 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 15:55:52,855 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-07 15:55:52,899 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-07 15:55:52,902 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 15:55:52,902 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 15:55:52,902 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-07 16:07:10,867 [Worker-19: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 16:07:10,868 [Worker-19: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 16:07:10,872 [Worker-19: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-07 16:07:10,891 [Worker-19: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-07 16:07:10,893 [Worker-19: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 16:07:10,893 [Worker-19: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 16:07:10,893 [Worker-19: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-07 16:09:42,251 [Worker-29: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 16:09:42,252 [Worker-29: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 16:09:42,252 [Worker-29: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-07 16:09:42,274 [Worker-29: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-07 16:09:42,276 [Worker-29: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 16:09:42,277 [Worker-29: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 16:09:42,277 [Worker-29: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-07 16:27:05,492 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-01-07 16:37:26,714 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 16:37:26,716 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 16:37:26,724 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-07 16:37:26,753 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-07 16:37:26,758 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 16:37:26,758 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 16:37:26,758 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-07 16:43:17,558 [Worker-21: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 16:43:17,559 [Worker-21: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 16:43:17,562 [Worker-21: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-07 16:43:17,582 [Worker-21: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-07 16:43:17,585 [Worker-21: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 16:43:17,585 [Worker-21: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 16:43:17,585 [Worker-21: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-07 17:03:48,770 [Worker-36: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 17:03:48,772 [Worker-36: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 17:03:48,773 [Worker-36: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-07 17:03:48,795 [Worker-36: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-07 17:03:48,799 [Worker-36: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 17:03:48,799 [Worker-36: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 17:03:48,799 [Worker-36: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-07 18:04:59,657 [Worker-49: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 18:04:59,659 [Worker-49: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 18:04:59,660 [Worker-49: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-07 18:04:59,682 [Worker-49: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-07 18:04:59,685 [Worker-49: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 18:04:59,685 [Worker-49: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 18:04:59,685 [Worker-49: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-07 18:16:42,881 [Worker-54: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 18:16:42,882 [Worker-54: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 18:16:42,884 [Worker-54: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-07 18:16:42,906 [Worker-54: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-07 18:16:42,909 [Worker-54: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 18:16:42,909 [Worker-54: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 18:16:42,909 [Worker-54: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-07 19:34:17,263 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 19:34:17,265 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 19:34:17,266 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-07 19:34:17,288 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-07 19:34:17,290 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 19:34:17,290 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 19:34:17,290 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-07 19:35:23,713 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 19:35:23,713 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 19:35:23,714 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-07 19:35:23,719 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-07 19:35:23,721 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-07 19:35:23,721 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-07 19:35:23,721 [Worker-58: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-10 10:00:40,870 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-01-10 10:07:31,068 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-10 10:07:31,073 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-10 10:07:31,077 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-10 10:07:31,144 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-10 10:07:31,149 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-10 10:07:31,149 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-10 10:07:31,149 [Worker-6: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-10 11:10:48,801 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-01-10 11:11:05,746 [Worker-26: Launching fantasyRest (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-01-10 11:11:05,760 [Worker-26: Launching fantasyRest (7)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always
+2022-01-10 12:32:53,267 [Worker-36: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-10 12:32:53,269 [Worker-36: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-10 12:32:53,270 [Worker-36: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-10 12:32:53,275 [Worker-36: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-10 12:32:53,279 [Worker-36: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-10 12:32:53,279 [Worker-36: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-10 12:32:53,279 [Worker-36: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-01-10 12:34:33,232 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-01-10 12:34:40,796 [Worker-36: Launching fantasyRest (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-01-10 12:34:40,796 [Worker-36: Launching fantasyRest (8)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always
+2022-01-10 14:41:36,807 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-03-18 12:52:57,894 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-06-07 11:43:40,885 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-08-02 20:12:21,775 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-08-02 20:13:39,744 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 20:13:39,753 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 20:13:39,761 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-02 20:13:39,792 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-02 20:13:39,797 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-02 20:13:39,797 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-02 20:13:39,798 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-08-08 21:12:53,797 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-08-27 01:01:34,534 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-08-30 10:28:13,422 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-08-30 10:39:59,175 [Worker-17: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-30 10:39:59,180 [Worker-17: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-30 10:39:59,184 [Worker-17: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-30 10:39:59,223 [Worker-17: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-30 10:39:59,226 [Worker-17: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-30 10:39:59,227 [Worker-17: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-30 10:39:59,227 [Worker-17: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-08-30 11:04:16,541 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-30 11:04:16,543 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-30 11:04:16,550 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-30 11:04:16,659 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2022-08-30 11:04:16,668 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-30 11:04:16,669 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-30 11:04:16,669 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-08-30 11:09:43,086 [Worker-35: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-30 11:09:43,087 [Worker-35: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-30 11:09:43,087 [Worker-35: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-08-30 11:09:43,117 [Worker-35: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-08-30 11:09:43,120 [Worker-35: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-30 11:09:43,120 [Worker-35: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-08-30 11:09:43,120 [Worker-35: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-01 23:07:05,275 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-02 18:44:10,387 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-02 18:47:15,913 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-02 18:48:06,194 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-02 18:48:06,196 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-02 18:48:06,202 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-02 18:48:06,227 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-02 18:48:06,232 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-02 18:48:06,232 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-02 18:48:06,233 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-02 18:57:12,524 [Worker-13: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-02 18:57:12,524 [Worker-13: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-02 18:57:12,527 [Worker-13: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-02 18:57:12,530 [Worker-13: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-02 18:57:12,533 [Worker-13: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-02 18:57:12,533 [Worker-13: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-02 18:57:12,533 [Worker-13: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-02 19:11:06,202 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-02 19:20:40,627 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-02 19:21:01,563 [Worker-16: Launching fantasyRest (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-09-02 19:21:01,569 [Worker-16: Launching fantasyRest (10)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always -Dstyle.color=always
+2022-09-02 23:16:16,815 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-02 23:16:28,274 [Worker-53: Launching fantasyRest (11)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-09-02 23:16:28,274 [Worker-53: Launching fantasyRest (11)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always -Dstyle.color=always
+2022-09-02 23:21:34,272 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-02 23:21:42,524 [Worker-60: Launching fantasyRest (12)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-09-02 23:21:42,525 [Worker-60: Launching fantasyRest (12)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always -Dstyle.color=always
+2022-09-03 00:52:25,278 [Worker-59: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-03 00:52:25,280 [Worker-59: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-03 00:52:25,283 [Worker-59: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-03 00:52:25,295 [Worker-59: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-03 00:52:25,299 [Worker-59: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-03 00:52:25,300 [Worker-59: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-03 00:52:25,300 [Worker-59: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-04 22:11:31,752 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-09-04 22:14:48,466 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-04 22:15:45,829 [Worker-20: Launching fantasyRest (13)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-09-04 22:15:45,842 [Worker-20: Launching fantasyRest (13)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always -Dstyle.color=always
+2022-09-04 22:39:03,031 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-04 22:39:14,419 [Worker-10: Launching fantasyRest (14)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-09-04 22:39:14,419 [Worker-10: Launching fantasyRest (14)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always -Dstyle.color=always
+2022-09-05 09:22:53,471 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-09-05 13:54:23,376 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-05 13:55:00,994 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-05 13:55:12,447 [Worker-26: Launching fantasyRest (16)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-09-05 13:55:12,473 [Worker-26: Launching fantasyRest (16)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always -Dstyle.color=always
+2022-09-05 13:58:22,183 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-05 13:58:32,790 [Worker-24: Launching fantasyRest (17)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-09-05 13:58:32,791 [Worker-24: Launching fantasyRest (17)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always -Dstyle.color=always
+2022-09-05 14:58:29,145 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-05 14:58:38,091 [Worker-32: Launching fantasyRest (18)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-09-05 14:58:38,091 [Worker-32: Launching fantasyRest (18)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always -Dstyle.color=always
+2022-09-05 15:05:31,058 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:05:31,059 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:05:31,063 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 15:05:31,089 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-05 15:05:31,093 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:05:31,093 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:05:31,094 [Worker-33: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 15:08:39,271 [Worker-42: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:08:39,271 [Worker-42: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:08:39,274 [Worker-42: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 15:08:39,318 [Worker-42: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-05 15:08:39,322 [Worker-42: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:08:39,322 [Worker-42: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:08:39,322 [Worker-42: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 15:12:04,205 [Worker-39: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:12:04,207 [Worker-39: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:12:04,208 [Worker-39: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 15:12:04,212 [Worker-39: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-05 15:12:04,217 [Worker-39: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:12:04,217 [Worker-39: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:12:04,217 [Worker-39: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 15:13:29,147 [Worker-47: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:13:29,149 [Worker-47: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:13:29,149 [Worker-47: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 15:13:29,153 [Worker-47: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-05 15:13:29,156 [Worker-47: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:13:29,156 [Worker-47: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:13:29,156 [Worker-47: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 15:15:08,822 [Worker-50: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:15:08,823 [Worker-50: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:15:08,824 [Worker-50: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 15:15:08,843 [Worker-50: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-05 15:15:08,845 [Worker-50: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:15:08,845 [Worker-50: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:15:08,845 [Worker-50: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 15:18:33,265 [Worker-52: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:18:33,266 [Worker-52: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:18:33,267 [Worker-52: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 15:18:33,270 [Worker-52: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-05 15:18:33,272 [Worker-52: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:18:33,272 [Worker-52: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:18:33,272 [Worker-52: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 15:36:41,484 [Worker-38: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:36:41,486 [Worker-38: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:36:41,487 [Worker-38: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 15:36:41,530 [Worker-38: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-05 15:36:41,535 [Worker-38: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:36:41,535 [Worker-38: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:36:41,535 [Worker-38: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 15:39:55,617 [Worker-55: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:39:55,618 [Worker-55: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:39:55,618 [Worker-55: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-05 15:39:55,619 [Worker-55: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-09-05 15:39:55,626 [Worker-55: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:39:55,626 [Worker-55: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:39:55,626 [Worker-55: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 15:54:52,986 [Worker-67: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:54:52,987 [Worker-67: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:54:52,988 [Worker-67: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 15:54:52,993 [Worker-67: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 15:54:53,001 [Worker-67: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 15:54:53,001 [Worker-67: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 15:54:53,001 [Worker-67: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 16:05:57,678 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 16:05:57,679 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 16:05:57,679 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-05 16:05:57,679 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 16:05:57,682 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 16:05:57,682 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 16:05:57,683 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 16:06:47,235 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 16:06:47,236 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 16:06:47,236 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-05 16:06:47,244 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-09-05 16:06:47,246 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-05 16:06:47,246 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-05 16:06:47,246 [Worker-71: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-05 16:07:19,251 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-05 16:07:52,172 [Worker-67: Launching fantasyRest (19)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-09-05 16:07:52,172 [Worker-67: Launching fantasyRest (19)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always -Dstyle.color=always
+2022-09-05 23:12:21,741 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-09-05 23:12:31,872 [Worker-88: Launching fantasyRest (20)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest
+2022-09-05 23:12:31,873 [Worker-88: Launching fantasyRest (20)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package -Dstyle.color=always -Dstyle.color=always
+2022-09-06 22:02:42,312 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-06 22:02:59,402 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-06 22:02:59,404 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-06 22:02:59,410 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-06 22:02:59,442 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-09-06 22:02:59,449 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-06 22:02:59,449 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-06 22:02:59,449 [Worker-8: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-06 22:13:29,166 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-06 22:13:29,166 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-06 22:13:29,171 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-06 22:13:29,175 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-09-06 22:13:29,190 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-06 22:13:29,190 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-06 22:13:29,190 [Worker-18: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-10 16:44:38,065 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-14 10:06:21,496 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-09-14 11:03:45,707 [Worker-23: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-14 11:03:45,712 [Worker-23: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-14 11:03:45,717 [Worker-23: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-09-14 11:03:45,740 [Worker-23: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-09-14 11:03:45,747 [Worker-23: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-09-14 11:03:45,747 [Worker-23: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-09-14 11:03:45,747 [Worker-23: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2022-09-17 18:54:12,348 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-09-20 16:16:27,265 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-22 17:57:08,753 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-09-24 11:56:29,834 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-28 18:47:43,390 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-28 18:49:00,377 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-28 18:49:00,379 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-28 18:49:00,383 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-28 18:49:00,403 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-28 18:49:00,408 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-28 18:49:00,408 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-28 18:49:00,409 [Worker-3: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
+2023-01-28 19:14:57,621 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-28 19:15:40,343 [Worker-1: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-28 19:15:40,350 [Worker-1: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-28 19:15:40,356 [Worker-1: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-01-28 19:15:40,388 [Worker-1: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-01-28 19:15:40,396 [Worker-1: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-01-28 19:15:40,396 [Worker-1: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-01-28 19:15:40,396 [Worker-1: Launching fantasyRest - FantasyRestApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ysrael/Source/fantasyTeamPro/fantasyRest/fantasyRest/src/test/resources
