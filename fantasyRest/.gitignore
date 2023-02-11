@@ -31,7 +31,7 @@ build/
 !**/src/test/**/build/
 
 ### Config ###
-src/main/resources/application.properties
+fantasyRest/src/main/resources/application.properties
 
 
 ### VS Code ###
